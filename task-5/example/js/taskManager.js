@@ -1,6 +1,6 @@
 // Create a TaskManager class
 class TaskManager {
-    // Set up the tasks and currentId property in the contructor
+    // Set up the tasks and currentId property in the constructor
     constructor(currentId = 0) {
         this.tasks = [];
         this.currentId = currentId;

@@ -49,7 +49,7 @@ to your wireframes structure created on Task 1.
 
 We've now set up the `index.html` page, created with Bootstrap! 
 
-Your task should meet the assesment criteria in the **Final Project - Scorecard Rubric**.
+Your task should meet the assessment criteria in the **Final Project - Scorecard Rubric**.
 
 ## Example
 
